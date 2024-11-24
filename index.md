@@ -11,6 +11,10 @@
 
 ### This is a `<h3>` header.
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 #### This is a `<h4>` header.
 
 ##### This is a `<h5>` header.
