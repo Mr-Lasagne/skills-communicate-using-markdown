@@ -4,6 +4,11 @@
 
 ## This is a `<h2>` header.
 
+```python
+>>> print("Hello, world!")
+'Hello, world!'
+```
+
 ### This is a `<h3>` header.
 
 #### This is a `<h4>` header.
