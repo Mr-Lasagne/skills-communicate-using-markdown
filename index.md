@@ -1,5 +1,7 @@
 # This is a `<h1>` header.
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ## This is a `<h2>` header.
 
 ### This is a `<h3>` header.
